@@ -1,0 +1,11 @@
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe.config
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.pdb
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.AssemblyReference.cache
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Form1.resources
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmNhanVien.resources
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Properties.Resources.resources
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.GenerateResource.cache
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.CoreCompileInputs.cache
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.exe
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.pdb
