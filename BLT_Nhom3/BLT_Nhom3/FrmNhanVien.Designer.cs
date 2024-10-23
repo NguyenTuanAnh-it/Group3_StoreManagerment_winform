@@ -96,6 +96,9 @@
             // cbb_gt
             // 
             this.cbb_gt.FormattingEnabled = true;
+            this.cbb_gt.Items.AddRange(new object[] {
+            "Nam",
+            "Nữ"});
             this.cbb_gt.Location = new System.Drawing.Point(196, 148);
             this.cbb_gt.Name = "cbb_gt";
             this.cbb_gt.Size = new System.Drawing.Size(121, 24);
@@ -199,6 +202,7 @@
             this.columnHeader4,
             this.columnHeader5,
             this.columnHeader6});
+            this.lv_nhanVien.GridLines = true;
             this.lv_nhanVien.HideSelection = false;
             this.lv_nhanVien.Location = new System.Drawing.Point(184, 385);
             this.lv_nhanVien.Name = "lv_nhanVien";
