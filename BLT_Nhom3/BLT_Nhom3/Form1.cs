@@ -29,7 +29,10 @@ namespace BLT_Nhom3
 
         private void quảnLýMặtHầngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            frmMatHang frm = new frmMatHang();
+            this.Hide();
+            frm.ShowDialog();
+            this.Show();
         }
 
         private void quảnLýNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
@@ -37,6 +40,30 @@ namespace BLT_Nhom3
             FrmNhanVien frmnv = new FrmNhanVien();
             this.Hide();
             frmnv.ShowDialog();
+            this.Show();
+        }
+
+        private void quảnLýToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmKhachHang frm = new FrmKhachHang();
+            this.Hide();
+            frm.ShowDialog();
+            this.Show();
+        }
+
+        private void lậpĐơnHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmHoaDonMua frm = new FrmHoaDonMua();
+            this.Hide();
+            frm.ShowDialog();
+            this.Show();
+        }
+
+        private void lậpHóaĐơnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmHoaDonBan frm = new FrmHoaDonBan();
+            this.Hide();
+            frm.ShowDialog();
             this.Show();
         }
     }

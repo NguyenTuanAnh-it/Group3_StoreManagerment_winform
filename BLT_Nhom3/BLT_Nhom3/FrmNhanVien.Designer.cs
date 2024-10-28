@@ -49,6 +49,14 @@
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.txt_timKiem = new System.Windows.Forms.TextBox();
+            this.btn_export = new System.Windows.Forms.Button();
+            this.btn_thoat = new System.Windows.Forms.Button();
+            this.btn_timKiem = new System.Windows.Forms.Button();
+            this.btn_sua = new System.Windows.Forms.Button();
+            this.btn_xoa = new System.Windows.Forms.Button();
+            this.btn_themNv = new System.Windows.Forms.Button();
+            this.btn_boQua = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -241,11 +249,97 @@
             this.columnHeader6.Text = "Số điện thoại";
             this.columnHeader6.Width = 155;
             // 
+            // txt_timKiem
+            // 
+            this.txt_timKiem.Location = new System.Drawing.Point(548, 605);
+            this.txt_timKiem.Multiline = true;
+            this.txt_timKiem.Name = "txt_timKiem";
+            this.txt_timKiem.Size = new System.Drawing.Size(219, 33);
+            this.txt_timKiem.TabIndex = 25;
+            // 
+            // btn_export
+            // 
+            this.btn_export.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_export.Location = new System.Drawing.Point(799, 605);
+            this.btn_export.Name = "btn_export";
+            this.btn_export.Size = new System.Drawing.Size(74, 33);
+            this.btn_export.TabIndex = 18;
+            this.btn_export.Text = "In";
+            this.btn_export.UseVisualStyleBackColor = true;
+            // 
+            // btn_thoat
+            // 
+            this.btn_thoat.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_thoat.Location = new System.Drawing.Point(959, 605);
+            this.btn_thoat.Name = "btn_thoat";
+            this.btn_thoat.Size = new System.Drawing.Size(74, 33);
+            this.btn_thoat.TabIndex = 20;
+            this.btn_thoat.Text = "Thoát";
+            this.btn_thoat.UseVisualStyleBackColor = true;
+            // 
+            // btn_timKiem
+            // 
+            this.btn_timKiem.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_timKiem.Location = new System.Drawing.Point(448, 605);
+            this.btn_timKiem.Name = "btn_timKiem";
+            this.btn_timKiem.Size = new System.Drawing.Size(94, 33);
+            this.btn_timKiem.TabIndex = 21;
+            this.btn_timKiem.Text = "Tìm kiếm";
+            this.btn_timKiem.UseVisualStyleBackColor = true;
+            // 
+            // btn_sua
+            // 
+            this.btn_sua.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_sua.Location = new System.Drawing.Point(264, 605);
+            this.btn_sua.Name = "btn_sua";
+            this.btn_sua.Size = new System.Drawing.Size(74, 33);
+            this.btn_sua.TabIndex = 22;
+            this.btn_sua.Text = "Sửa";
+            this.btn_sua.UseVisualStyleBackColor = true;
+            // 
+            // btn_xoa
+            // 
+            this.btn_xoa.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_xoa.Location = new System.Drawing.Point(344, 605);
+            this.btn_xoa.Name = "btn_xoa";
+            this.btn_xoa.Size = new System.Drawing.Size(74, 33);
+            this.btn_xoa.TabIndex = 23;
+            this.btn_xoa.Text = "Xóa";
+            this.btn_xoa.UseVisualStyleBackColor = true;
+            // 
+            // btn_themNv
+            // 
+            this.btn_themNv.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_themNv.Location = new System.Drawing.Point(184, 605);
+            this.btn_themNv.Name = "btn_themNv";
+            this.btn_themNv.Size = new System.Drawing.Size(74, 33);
+            this.btn_themNv.TabIndex = 24;
+            this.btn_themNv.Text = "Thêm";
+            this.btn_themNv.UseVisualStyleBackColor = true;
+            // 
+            // btn_boQua
+            // 
+            this.btn_boQua.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_boQua.Location = new System.Drawing.Point(879, 605);
+            this.btn_boQua.Name = "btn_boQua";
+            this.btn_boQua.Size = new System.Drawing.Size(74, 33);
+            this.btn_boQua.TabIndex = 26;
+            this.btn_boQua.Text = "Bỏ qua";
+            this.btn_boQua.UseVisualStyleBackColor = true;
+            // 
             // FrmNhanVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1202, 609);
+            this.ClientSize = new System.Drawing.Size(1197, 650);
+            this.Controls.Add(this.btn_boQua);
+            this.Controls.Add(this.txt_timKiem);
+            this.Controls.Add(this.btn_export);
+            this.Controls.Add(this.btn_thoat);
+            this.Controls.Add(this.btn_timKiem);
+            this.Controls.Add(this.btn_sua);
+            this.Controls.Add(this.btn_xoa);
+            this.Controls.Add(this.btn_themNv);
             this.Controls.Add(this.lv_nhanVien);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label2);
@@ -281,5 +375,13 @@
         private System.Windows.Forms.ColumnHeader columnHeader4;
         private System.Windows.Forms.ColumnHeader columnHeader5;
         private System.Windows.Forms.ColumnHeader columnHeader6;
+        private System.Windows.Forms.TextBox txt_timKiem;
+        private System.Windows.Forms.Button btn_export;
+        private System.Windows.Forms.Button btn_thoat;
+        private System.Windows.Forms.Button btn_timKiem;
+        private System.Windows.Forms.Button btn_sua;
+        private System.Windows.Forms.Button btn_xoa;
+        private System.Windows.Forms.Button btn_themNv;
+        private System.Windows.Forms.Button btn_boQua;
     }
 }
