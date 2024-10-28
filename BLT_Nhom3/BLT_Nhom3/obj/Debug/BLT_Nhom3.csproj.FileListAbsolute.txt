@@ -9,3 +9,18 @@ D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.GenerateRe
 D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.CoreCompileInputs.cache
 D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.exe
 D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.pdb
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe.config
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.pdb
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.AssemblyReference.cache
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Form1.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.frmMatHang.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmNhanVien.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Properties.Resources.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.GenerateResource.cache
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.CoreCompileInputs.cache
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.exe
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.pdb
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmKhachHang.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonMua.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonBan.resources
