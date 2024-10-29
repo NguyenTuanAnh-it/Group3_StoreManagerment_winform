@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace BLT_Nhom3
 {
-    public partial class FrmHoaDonMua : Form
+    public partial class FrmChiTietHDB : Form
     {
-        public FrmHoaDonMua()
+        public FrmChiTietHDB()
         {
             InitializeComponent();
         }
 
-        private void dtp_ngayNhap_ValueChanged(object sender, EventArgs e)
+        private void label8_Click(object sender, EventArgs e)
         {
 
         }

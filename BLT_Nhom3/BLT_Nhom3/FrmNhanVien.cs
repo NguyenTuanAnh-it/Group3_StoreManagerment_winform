@@ -21,5 +21,10 @@ namespace BLT_Nhom3
         {
 
         }
+
+        private void FrmNhanVien_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
