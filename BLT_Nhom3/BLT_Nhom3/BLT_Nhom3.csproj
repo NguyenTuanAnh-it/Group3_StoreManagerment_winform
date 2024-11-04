@@ -58,6 +58,12 @@
     <Compile Include="FrmChiTietHDB.Designer.cs">
       <DependentUpon>FrmChiTietHDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmChiTietHDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChiTietHDN.Designer.cs">
+      <DependentUpon>FrmChiTietHDN.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmHoaDonBan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +94,12 @@
     <Compile Include="FrmNhanVien.Designer.cs">
       <DependentUpon>FrmNhanVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmThongKe.Designer.cs">
+      <DependentUpon>FrmThongKe.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -95,6 +107,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmChiTietHDB.resx">
       <DependentUpon>FrmChiTietHDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChiTietHDN.resx">
+      <DependentUpon>FrmChiTietHDN.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmHoaDonBan.resx">
       <DependentUpon>FrmHoaDonBan.cs</DependentUpon>
@@ -110,6 +125,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmNhanVien.resx">
       <DependentUpon>FrmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmThongKe.resx">
+      <DependentUpon>FrmThongKe.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
