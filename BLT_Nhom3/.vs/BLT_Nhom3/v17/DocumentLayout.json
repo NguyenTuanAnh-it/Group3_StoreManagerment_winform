@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learned\\C#\\Project\\BLT_Nhom3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A5E5AFC7-AFA5-407B-972E-B0126695DBF6}|BLT_Nhom3\\BLT_Nhom3.csproj|d:\\learned\\c#\\project\\blt_nhom3\\blt_nhom3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A5E5AFC7-AFA5-407B-972E-B0126695DBF6}|BLT_Nhom3\\BLT_Nhom3.csproj|solutionrelative:blt_nhom3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5E5AFC7-AFA5-407B-972E-B0126695DBF6}|BLT_Nhom3\\BLT_Nhom3.csproj|D:\\Learned\\C#\\Project\\BLT_Nhom3\\blt_nhom3\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5E5AFC7-AFA5-407B-972E-B0126695DBF6}|BLT_Nhom3\\BLT_Nhom3.csproj|solutionrelative:blt_nhom3\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5E5AFC7-AFA5-407B-972E-B0126695DBF6}|BLT_Nhom3\\BLT_Nhom3.csproj|D:\\Learned\\C#\\Project\\BLT_Nhom3\\blt_nhom3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5E5AFC7-AFA5-407B-972E-B0126695DBF6}|BLT_Nhom3\\BLT_Nhom3.csproj|solutionrelative:blt_nhom3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,44 +28,8 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Learned\\C#\\Project\\BLT_Nhom3\\BLT_Nhom3\\Form1.cs",
-              "RelativeDocumentMoniker": "BLT_Nhom3\\Form1.cs",
-              "ToolTip": "D:\\Learned\\C#\\Project\\BLT_Nhom3\\BLT_Nhom3\\Form1.cs [Design]",
-              "RelativeToolTip": "BLT_Nhom3\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T11:21:57.392Z",
-              "EditorCaption": " [Design]"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQL.cs",
-              "DocumentMoniker": "D:\\Learned\\C#\\Project\\BLT_Nhom3\\BLT_Nhom3\\SQL.cs",
-              "RelativeDocumentMoniker": "BLT_Nhom3\\SQL.cs",
-              "ToolTip": "D:\\Learned\\C#\\Project\\BLT_Nhom3\\BLT_Nhom3\\SQL.cs",
-              "RelativeToolTip": "BLT_Nhom3\\SQL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T11:11:58.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learned\\C#\\Project\\BLT_Nhom3\\BLT_Nhom3\\Program.cs",
-              "RelativeDocumentMoniker": "BLT_Nhom3\\Program.cs",
-              "ToolTip": "D:\\Learned\\C#\\Project\\BLT_Nhom3\\BLT_Nhom3\\Program.cs",
-              "RelativeToolTip": "BLT_Nhom3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T11:11:41.349Z"
             }
           ]
         }
