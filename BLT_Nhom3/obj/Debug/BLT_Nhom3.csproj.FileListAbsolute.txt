@@ -1,0 +1,64 @@
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe.config
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.pdb
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.AssemblyReference.cache
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Form1.resources
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmNhanVien.resources
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Properties.Resources.resources
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.GenerateResource.cache
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.CoreCompileInputs.cache
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.exe
+D:\C#_Tutorial\TH .NET\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.pdb
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe.config
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.pdb
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.AssemblyReference.cache
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Form1.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.frmMatHang.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmNhanVien.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Properties.Resources.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.GenerateResource.cache
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.CoreCompileInputs.cache
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.exe
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.pdb
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmKhachHang.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonMua.resources
+H:\New folder (2)\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonBan.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe.config
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.pdb
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.AssemblyReference.cache
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.DangNhap.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Form1.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmChiTietHDB.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmChiTietHDN.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonBan.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonMua.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmKhachHang.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.frmMatHang.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmNhanVien.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmThongKe.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Properties.Resources.resources
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.GenerateResource.cache
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.CoreCompileInputs.cache
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.exe
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.pdb
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe.config
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.pdb
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.AssemblyReference.cache
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.DangNhap.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Form1.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmChiTietHDB.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmChiTietHDN.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonBan.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmHoaDonMua.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmKhachHang.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.frmMatHang.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmNhanVien.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmThongKe.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Properties.Resources.resources
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.GenerateResource.cache
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.CoreCompileInputs.cache
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.exe
+D:\lccao\Group3_StoreManagerment_winform\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.pdb
