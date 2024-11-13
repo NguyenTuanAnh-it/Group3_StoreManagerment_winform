@@ -28,6 +28,7 @@ D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe.config
 D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.exe
 D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\bin\Debug\BLT_Nhom3.pdb
 D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.csproj.AssemblyReference.cache
+D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.DangNhap.resources
 D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.Form1.resources
 D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmChiTietHDB.resources
 D:\Learned\C#\Project\BLT_Nhom3\BLT_Nhom3\obj\Debug\BLT_Nhom3.FrmChiTietHDN.resources

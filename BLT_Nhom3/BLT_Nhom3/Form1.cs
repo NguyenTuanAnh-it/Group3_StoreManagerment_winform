@@ -26,7 +26,13 @@ namespace BLT_Nhom3
         {
 
         }
-
+        public void gioiHanNV()
+        {
+            quảnLýNhânViênToolStripMenuItem.Enabled = false;
+            quảnLýMặtHầngToolStripMenuItem.Enabled = false;
+            quảnLýNhậpHàngToolStripMenuItem.Enabled = false;
+            thốngKêBáoToolStripMenuItem.Enabled = false;
+        }
         private void quảnLýMặtHầngToolStripMenuItem_Click(object sender, EventArgs e)
         {
             frmMatHang frm = new frmMatHang();
