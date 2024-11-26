@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
 namespace BLT_Nhom3
 {
     public partial class frmMatHang : Form
@@ -148,7 +148,37 @@ namespace BLT_Nhom3
 
         private void btn_timKiem_Click(object sender, EventArgs e)
         {
+            if (txt_timKiem.Text != "")
+            {
+                string lenh = @"SELECT * FROM MatHang WHERE MaMH LIKE '%" + txt_timKiem.Text + "%'"
+                                + "OR TenMH LIKE N'%" + txt_timKiem.Text + "%'"
+                                + "OR loaiHang LIKE N'%" + txt_timKiem.Text + "%'"
+                                + "OR xuatXu LIKE '%" + txt_timKiem.Text + "%'"
+                                + "OR donVi LIKE '%" + txt_timKiem.Text + "%'";
 
+                ketnoi.Open();
+                SqlCommand thaotac = new SqlCommand(lenh, ketnoi);
+                SqlDataReader docdulieu = thaotac.ExecuteReader();
+                int i = 0;
+                lv_matHang.Items.Clear();
+                while (docdulieu.Read())
+                {
+                    lv_matHang.Items.Add(docdulieu[0].ToString());
+                    lv_matHang.Items[i].SubItems.Add(docdulieu[1].ToString());
+                    lv_matHang.Items[i].SubItems.Add(docdulieu[2].ToString());
+                    lv_matHang.Items[i].SubItems.Add(docdulieu[3].ToString());
+                    lv_matHang.Items[i].SubItems.Add(docdulieu[4].ToString());
+                    lv_matHang.Items[i].SubItems.Add(docdulieu[5].ToString());
+                    lv_matHang.Items[i].SubItems.Add(docdulieu[6].ToString());
+                    i++;
+                }
+                docdulieu.Close();
+                ketnoi.Close();
+            }
+            else
+            {
+                MessageBox.Show("Vui lòng nhập thông tin tìm kiếm", "Thông Báo", MessageBoxButtons.OK);
+            }
         }
 
         private void btn_boqua_Click(object sender, EventArgs e)
